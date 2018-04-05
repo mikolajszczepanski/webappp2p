@@ -1,0 +1,85 @@
+﻿body {
+
+}
+
+
+div#newMessage{
+    margin-top:10px;
+    margin-bottom:10px;
+}
+
+.composeModal{
+    width: 80%;
+}
+
+#composeContent{
+    height: 200px;
+}
+
+.menuBar .navbar-nav > .active {
+    border-bottom: 3px solid #2196F3;
+}
+
+.menuBar .navbar {
+    background-color: #ffffff;
+    background-image: none;
+}
+
+#messages-tabs ul{
+    margin-bottom: 10px;
+}
+
+.messsages-table span,p,h5,h4,h3,h2,h1{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    display: block;
+}
+
+.selectable{
+    cursor: pointer;
+}
+
+.message-content {
+    white-space: pre-wrap;
+    margin-left:10px;
+}
+
+.message-title {
+    margin-left: 10px;
+}
+
+.address {
+    word-wrap: break-word;
+}
+
+.quick-response form{
+    margin-left: 20px;
+}
+
+.details-info {
+    margin-left: 10px;
+}
+.details-info span{
+    margin-left: 10px;
+}
+textarea {
+    margin-bottom: 10px;
+}
+
+h5,h4,h3,h2,h1,p,td,small,span{
+    overflow-wrap: break-word;
+}
+
+table {
+    width: 100%;
+    table-layout: fixed;
+}
+td {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis; 
+}
+.center {
+    text-align: center;
+}

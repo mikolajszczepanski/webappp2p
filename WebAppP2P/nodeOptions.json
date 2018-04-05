@@ -1,0 +1,22 @@
+﻿{
+  "self": "http://localhost:62216/api/",
+  "nodesList": [
+    "http://webappp2p-1.azurewebsites.net/api/",
+    "http://webappp2p-2.azurewebsites.net/api/",
+    "http://localhost:62216/api/",
+    "http://localhost:5000/api/",
+    "http://localhost:5001/api/",
+    "http://localhost:5002/api/",
+    "http://localhost/api/"
+  ],
+  "tracer": {
+    "maxNodesActive": 20,
+    "jobInterval": 60,
+    "clearStatistics": 3600,
+    "statisticsConsider": 360
+  },
+  "blockchain": {
+    "jobInterval": 120
+  }
+}
+

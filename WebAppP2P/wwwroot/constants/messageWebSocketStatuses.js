@@ -1,0 +1,3 @@
+﻿export const MESSAGE_WEBSOCKET_CONNECTION_CLOSED = 'closed';
+export const MESSAGE_WEBSOCKET_CONNECTION_OPENED = 'opened';
+export const MESSAGE_WEBSOCKET_CONNECTION_INIT = 'init';
